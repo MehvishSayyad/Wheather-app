@@ -1,4 +1,3 @@
-
 This is a simple web-based Weather App that fetches real-time weather data using the OpenWeatherMap API. Users can either enter a city name or use their current location to view current weather details like temperature and conditions. 
 🚀 Features
 🔍 Search weather by city name

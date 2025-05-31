@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    margin: 0;
+    padding: 100px;
+    color: white;
+}
+
+.container {
+    height: 25rem;
+    max-width: 400px;
+    margin: auto;
+    background: rgb(109, 164, 192);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: blue;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkblue;
+}
